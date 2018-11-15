@@ -1,0 +1,4 @@
+set environment LD_PRELOAD ./libfake.so
+r 
+vmmap
+
